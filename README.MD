@@ -1,4 +1,3 @@
 # Golf Players Clustering Rshiny
 
-This repo contains Rshiny app that allows users to cluster players of different season Golf gales. Users can select the data for different seasons, clustering algorithms and download the clustered data into thier machine.
-
+This repo contains Rshiny app that allows users to cluster folg players in various tournaments. Users can select the different tournament data, clustering algorithms, and clustering metrics they want to use, then download the clustered data into thier machine.
