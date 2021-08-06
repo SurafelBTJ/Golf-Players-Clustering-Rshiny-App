@@ -2,5 +2,5 @@
 
 This repo contains Rshiny app that allows users to cluster golf players of various tournaments. Users can select the different tournaments data, clustering algorithms, and clustering metrics they want to use, then download the clustered data into thier machine.
 
-PGA stats data was scrapred from PGA website: (https://www.pgatour.com/stats.html)
+PGA stats data is scrapred from PGA website: (https://www.pgatour.com/stats.html)
 
