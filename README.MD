@@ -4,3 +4,4 @@ This repo contains Rshiny app that allows users to cluster golf players of vario
 
 PGA stats data is scrapred from PGA website: (https://www.pgatour.com/stats.html)
 
+Several clustering machine learning algorithms can be applied on the Tournament datasets, including K-means and others.
