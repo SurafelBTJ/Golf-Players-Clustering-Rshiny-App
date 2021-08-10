@@ -6,4 +6,4 @@ PGA stats data is scrapred from PGA website: (https://www.pgatour.com/stats.html
 
 Several clustering machine learning algorithms can be applied on the Tournament datasets.
 
-The clusteirng datasets contain players stats, along with their profile data, such as height, weight and age. 
+The clusteirng datasets contain players PGA stats data combined with their profile data, such as height, weight and age. 
