@@ -5,7 +5,7 @@ library(tibble)
 library(fclust)
 
 
-path='/Users/surafeltilahun/OneDrive/OneDrive-2021-08-05/Clustering_data_year_to_date/'
+path='Tournaments Dataset/Clustering_data_year_to_date/'
 
 all_files_names<-list.files(pattern = '*.csv',path = path,full.names = TRUE)
 all_year_to_date_files<-lapply(all_files_names,read.csv)
