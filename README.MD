@@ -8,4 +8,4 @@ Several clustering machine learning algorithms can be applied on the Tournament 
 
 The clusteirng datasets contain players PGA stats data combined with their profile data, such as height, weight and age. 
 
-Note: Tournament Dataset folder, Server and User Interface must be in the same folder to be able to run this web server app.
+Note: Tournament Dataset folder, Server and User Interface must be in the same folder to be able to run this web application.
