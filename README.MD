@@ -4,8 +4,8 @@ This repo contains Rshiny web app that allows users to cluster golf players data
 
 PGA stats data is scrapred from PGA website: (https://www.pgatour.com/stats.html)
 
-Several clustering machine learning algorithms are available in the app, which can be applied on the Tournament datasets.
+Several clustering machine learning algorithms are available in the app.
 
-The clusteirng datasets contain players PGA stats data combined with their profile data, such as height, weight, age and their world rank based on the World Golf Ranking (http://www.owgr.com/). 
+The clusteirng datasets contain players PGA stats data combined with their profile data, such as height, weight, age and their world rank according to the World Golf Ranking (http://www.owgr.com/). 
 
-Note: Tournament Dataset folder, Server and User Interface files must be in the same folder. Furthermore, the user must have a prior understanding of the clusteirng algorightms to to get an optimized clustered data efficiently. 
+Note: Tournament Dataset folder, Server and User Interface files must be in the same folder. Furthermore, the user must have a prior understanding of the clusteirng algorightms to to use the app correctly and get optimized clustered data. 
