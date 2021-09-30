@@ -8,4 +8,4 @@ Several clustering machine learning algorithms are available in the app.
 
 The clusteirng datasets contain players PGA stats data combined with their profile data, such as height, weight, age and their world rank according to the World Golf Ranking (http://www.owgr.com/). 
 
-Note: Tournament Dataset folder, Server and User Interface files must be in the same folder. Furthermore, the user must have a prior understanding of the clusteirng algorightms to to use the app correctly and get optimized clustered data. 
+Note: Tournament Dataset folder, Server and User Interface files must be in the same folder. Furthermore, the user must have a prior understanding of the clusteirng algorightms to use the app correctly and get optimized clustered data. 
